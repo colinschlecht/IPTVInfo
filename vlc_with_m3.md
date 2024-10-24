@@ -66,7 +66,8 @@ git clone https://github.com/Free-TV/IPTV.git
 ```
 #### Link to the [IPTV repo](https://github.com/iptv-org/iptv/) - which will be updated and maintained by developers and other users of the service. 
 
-*read me as of 10/xx/2024*:
+*read me as of 10/xx/2024*: note that most links not link properly, please check out the readme in the original repo for working links!
+
 # IPTV [![update](https://github.com/iptv-org/iptv/actions/workflows/update.yml/badge.svg)](https://github.com/iptv-org/iptv/actions/workflows/update.yml)
 
 Collection of publicly available IPTV (Internet Protocol television) channels from all over the world.
